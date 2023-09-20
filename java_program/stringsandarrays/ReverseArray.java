@@ -12,7 +12,7 @@ public class ReverseArray {
     }
     static void reverse(int[] arr){
         int start=0;
-        int end=arr.length-1;  
+        int end=arr.length-1;
         while(start<end){
             swap(arr,start,end);
             start++;

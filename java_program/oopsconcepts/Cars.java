@@ -1,6 +1,6 @@
 package java_practice.oopsconcepts;
 
-public class  Cars{
+public class Cars{
     String color;
     String brand;
     int price;
